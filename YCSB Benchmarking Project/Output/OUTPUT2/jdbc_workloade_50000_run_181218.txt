@@ -1,0 +1,51 @@
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+[OVERALL], RunTime(ms), 105765
+[OVERALL], Throughput(ops/sec), 472.7461825745757
+[TOTAL_GCS_PS_Scavenge], Count, 64
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 121
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.11440457618304732
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 64
+[TOTAL_GC_TIME], Time(ms), 121
+[TOTAL_GC_TIME_%], Time(%), 0.11440457618304732
+[CLEANUP], Operations, 10
+[CLEANUP], AverageLatency(us), 340.9
+[CLEANUP], MinLatency(us), 93
+[CLEANUP], MaxLatency(us), 1818
+[CLEANUP], 95thPercentileLatency(us), 1818
+[CLEANUP], 99thPercentileLatency(us), 1818
+[INSERT], Operations, 2507
+[INSERT], AverageLatency(us), 301624.5153570004
+[INSERT], MinLatency(us), 13848
+[INSERT], MaxLatency(us), 6660095
+[INSERT], 95thPercentileLatency(us), 1708031
+[INSERT], 99thPercentileLatency(us), 4481023
+[INSERT], Return=OK, 2507
+[SCAN], Operations, 47493
+[SCAN], AverageLatency(us), 4656.10826858695
+[SCAN], MinLatency(us), 145
+[SCAN], MaxLatency(us), 3239935
+[SCAN], 95thPercentileLatency(us), 4027
+[SCAN], 99thPercentileLatency(us), 16911
+[SCAN], Return=OK, 47493

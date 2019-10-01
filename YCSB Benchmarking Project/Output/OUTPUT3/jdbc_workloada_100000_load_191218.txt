@@ -1,0 +1,44 @@
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+[OVERALL], RunTime(ms), 2692574
+[OVERALL], Throughput(ops/sec), 37.139183547044574
+[TOTAL_GCS_PS_Scavenge], Count, 49
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 203
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.007539254260050049
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 49
+[TOTAL_GC_TIME], Time(ms), 203
+[TOTAL_GC_TIME_%], Time(%), 0.007539254260050049
+[CLEANUP], Operations, 10
+[CLEANUP], AverageLatency(us), 733.6
+[CLEANUP], MinLatency(us), 213
+[CLEANUP], MaxLatency(us), 4175
+[CLEANUP], 95thPercentileLatency(us), 4175
+[CLEANUP], 99thPercentileLatency(us), 4175
+[INSERT], Operations, 100000
+[INSERT], AverageLatency(us), 268550.55852
+[INSERT], MinLatency(us), 14120
+[INSERT], MaxLatency(us), 9658367
+[INSERT], 95thPercentileLatency(us), 1444863
+[INSERT], 99thPercentileLatency(us), 3518463
+[INSERT], Return=OK, 100000

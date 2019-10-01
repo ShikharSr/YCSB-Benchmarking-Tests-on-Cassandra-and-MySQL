@@ -1,0 +1,51 @@
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Adding shard node URL: jdbc:mysql://localhost:3306/BenchTest
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+Using shards: 1, batchSize:-1, fetchSize: -1
+[OVERALL], RunTime(ms), 3046487
+[OVERALL], Throughput(ops/sec), 65.64938566946125
+[TOTAL_GCS_PS_Scavenge], Count, 29
+[TOTAL_GC_TIME_PS_Scavenge], Time(ms), 143
+[TOTAL_GC_TIME_%_PS_Scavenge], Time(%), 0.00469393107536648
+[TOTAL_GCS_PS_MarkSweep], Count, 0
+[TOTAL_GC_TIME_PS_MarkSweep], Time(ms), 0
+[TOTAL_GC_TIME_%_PS_MarkSweep], Time(%), 0.0
+[TOTAL_GCs], Count, 29
+[TOTAL_GC_TIME], Time(ms), 143
+[TOTAL_GC_TIME_%], Time(%), 0.00469393107536648
+[READ], Operations, 99833
+[READ], AverageLatency(us), 14744.454959782837
+[READ], MinLatency(us), 127
+[READ], MaxLatency(us), 4489215
+[READ], 95thPercentileLatency(us), 16831
+[READ], 99thPercentileLatency(us), 406527
+[READ], Return=OK, 99833
+[CLEANUP], Operations, 10
+[CLEANUP], AverageLatency(us), 1514.7
+[CLEANUP], MinLatency(us), 235
+[CLEANUP], MaxLatency(us), 5015
+[CLEANUP], 95thPercentileLatency(us), 5015
+[CLEANUP], 99thPercentileLatency(us), 5015
+[UPDATE], Operations, 100167
+[UPDATE], AverageLatency(us), 287270.1820359999
+[UPDATE], MinLatency(us), 13392
+[UPDATE], MaxLatency(us), 10395647
+[UPDATE], 95thPercentileLatency(us), 1636351
+[UPDATE], 99thPercentileLatency(us), 3809279
+[UPDATE], Return=OK, 100167
